@@ -2,7 +2,8 @@
 
 ## Description
 
-As i'm a customer of 2Captcha, i build a backup of 2Captcha, when 2Captcha is unavailable, you can use this project to do the captcha cracking(I use it for myself, it works very well).
+A backup project for 2Captcha, when 2Captcha is unavailable, you can use this project to do the captcha cracking to make sure your business can run smoothly
+(It works very well except we need to crack manually).
 
 ## Advantage
 
